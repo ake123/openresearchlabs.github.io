@@ -1,5 +1,96 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2602.05938",
+    "author": [
+      {
+        "family": "Pelto",
+        "given": "Juho"
+      },
+      {
+        "family": "Auranen",
+        "given": "Kari"
+      },
+      {
+        "family": "Kujala",
+        "given": "Janne V."
+      },
+      {
+        "family": "Lahti",
+        "given": "Leo"
+      }
+    ],
+    "container-title": "arXiv",
+    "id": "pelto2026",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "bioscience",
+    "status": "preprint",
+    "title": "A bayesian approach to differential prevalence analysis with applications in microbiome studies",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Han",
+        "given": "Tatu"
+      },
+      {
+        "family": "Hakanen",
+        "given": "Antti"
+      },
+      {
+        "family": "Löyttyniemi",
+        "given": "Eliisa"
+      },
+      {
+        "family": "Vanhatalo",
+        "given": "Sanja"
+      },
+      {
+        "family": "Kallonen",
+        "given": "Teemu"
+      },
+      {
+        "family": "Hollmen",
+        "given": "Maija"
+      },
+      {
+        "family": "Borman",
+        "given": "Tuomas"
+      },
+      {
+        "family": "Munukka",
+        "given": "Eveliina"
+      },
+      {
+        "family": "Hurme",
+        "given": "Saija"
+      },
+      {
+        "family": "Lahti",
+        "given": "Leo"
+      }
+    ],
+    "container-title": "APMIS",
+    "id": "Han2026",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "bioscience",
+    "note": "In press.",
+    "title": "Uncomplicated and complicated acute appendicitis induce different cytokine patterns",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.63744/eCwMjQ976nWf",
     "author": [
       {
