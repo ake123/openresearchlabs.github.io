@@ -1,6 +1,6 @@
 [
   {
-    "URL": "https://arxiv.org/abs/2602.05938",
+    "DOI": "10.48550/arXiv.2602.05938",
     "author": [
       {
         "family": "Pelto",
@@ -34,61 +34,69 @@
     "type": "article-journal"
   },
   {
+    "DOI": "https://doi.org/10.1111/apm.70168",
     "author": [
       {
         "family": "Han",
         "given": "Tatu"
       },
       {
-        "family": "Hakanen",
-        "given": "Antti"
-      },
-      {
-        "family": "Löyttyniemi",
-        "given": "Eliisa"
+        "family": "Borman",
+        "given": "Tuomas"
       },
       {
         "family": "Vanhatalo",
         "given": "Sanja"
       },
       {
-        "family": "Kallonen",
-        "given": "Teemu"
+        "family": "Lahti",
+        "given": "Leo"
       },
       {
-        "family": "Hollmen",
-        "given": "Maija"
-      },
-      {
-        "family": "Borman",
-        "given": "Tuomas"
-      },
-      {
-        "family": "Munukka",
-        "given": "Eveliina"
+        "family": "Löyttyniemi",
+        "given": "Eliisa"
       },
       {
         "family": "Hurme",
         "given": "Saija"
       },
       {
-        "family": "Lahti",
-        "given": "Leo"
+        "family": "Munukka",
+        "given": "Eveliina"
+      },
+      {
+        "family": "Kallonen",
+        "given": "Teemu"
+      },
+      {
+        "family": "Hakanen",
+        "given": "Antti"
+      },
+      {
+        "family": "Hollmén",
+        "given": "Maija"
+      },
+      {
+        "family": "Salminen",
+        "given": "Paulina"
       }
     ],
     "container-title": "APMIS",
     "id": "Han2026",
+    "issue": "2",
     "issued": {
       "date-parts": [
         [
-          2026
+          2026,
+          2
         ]
       ]
     },
     "keyword": "bioscience",
-    "note": "In press.",
+    "page": "e70168",
     "title": "Uncomplicated and complicated acute appendicitis induce different cytokine patterns",
-    "type": "article-journal"
+    "type": "article-journal",
+    "volume": "134"
   },
   {
     "DOI": "10.63744/eCwMjQ976nWf",
