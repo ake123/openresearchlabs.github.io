@@ -116,7 +116,9 @@ The affiliation for the co-supervised PhD candidates indicated in parentheses.
 
 ## Alumni
 
-Postdocs:
+Researchers:
+- Moein Khalighi
+- Renuka Potbhare
 - Matti Ruuskanen
 - Katariina Pärnänen
 - Guilhem Sommeria-Klein (2021-2024)
@@ -141,6 +143,9 @@ Visiting scholars:
 - Dattatray Mongad (2022; visiting researcher)
 
 Research assistants & interns:
+- Pyry Kantanen
+- Maija Hakula
+- Eetu Tammi
 - Aituar Bektanov
 - Signe Nynäs (2025)
 - Ali Hajj (2025; intern)
