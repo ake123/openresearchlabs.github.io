@@ -1,5 +1,50 @@
 [
   {
+    "author": [
+      {
+        "family": "Veronika K. Pettersen",
+        "given": "Salla Sariola",
+        "suffix": "Yngvild Wasteson"
+      }
+    ],
+    "container-title": "Elsevier",
+    "id": "Pettersen2026",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "bioscience",
+    "note": "In press.",
+    "title": "Roadmap for integrated one health AMR surveillance in nordic countries public health",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "clubb",
+        "family": "Akseli Hemminki",
+        "given": "James",
+        "suffix": "Mirte vanderheijden"
+      }
+    ],
+    "container-title": "OncoImmunology",
+    "id": "Hemminki2026",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "bioscience",
+    "note": "In press.",
+    "title": "Alistipes and eggerthella shape the response to oncolytic adenovirus therapy in mice and humans through short chain fatty acid metabolism",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1111/mmi.70064",
     "author": [
       {
