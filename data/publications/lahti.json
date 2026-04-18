@@ -1,48 +1,191 @@
 [
   {
+    "DOI": "10.1016/j.puhe.2026.106285",
+    "ISSN": "0033-3506",
     "author": [
       {
-        "family": "Veronika K. Pettersen",
-        "given": "Salla Sariola",
-        "suffix": "Yngvild Wasteson"
+        "family": "Abramova",
+        "given": "Anna"
+      },
+      {
+        "family": "Baral",
+        "given": "Amulya"
+      },
+      {
+        "family": "Osińska",
+        "given": "Adriana Dorota"
+      },
+      {
+        "family": "Metsä-Simola",
+        "given": "Niina"
+      },
+      {
+        "family": "Räisänen",
+        "given": "Kati"
+      },
+      {
+        "family": "Duarte",
+        "given": "Ana Sofia Ribeiro"
+      },
+      {
+        "family": "Helgason",
+        "given": "Kristján Orri"
+      },
+      {
+        "family": "Halldórsdóttir",
+        "given": "Anna Margrét"
+      },
+      {
+        "family": "Pärnänen",
+        "given": "Katariina"
+      },
+      {
+        "family": "Simonsen",
+        "given": "Gunnar Skov"
+      },
+      {
+        "family": "Sariola",
+        "given": "Salla"
+      },
+      {
+        "family": "Lahti",
+        "given": "Leo"
+      },
+      {
+        "family": "Bengtsson-Palme",
+        "given": "Johan"
+      },
+      {
+        "family": "Wasteson",
+        "given": "Yngvild"
+      },
+      {
+        "family": "Munk",
+        "given": "Patrick"
+      },
+      {
+        "family": "Pettersen",
+        "given": "Veronika Kuchařová"
       }
     ],
-    "container-title": "Elsevier",
-    "id": "Pettersen2026",
+    "container-title": "Public Health",
+    "id": "Abramova2026",
     "issued": {
       "date-parts": [
         [
-          2026
+          2026,
+          6
         ]
       ]
     },
     "keyword": "bioscience",
-    "note": "In press.",
-    "title": "Roadmap for integrated one health AMR surveillance in nordic countries public health",
-    "type": "article-journal"
+    "page": "106285",
+    "title": "Roadmap for integrated one health AMR surveillance in nordic countries",
+    "type": "article-journal",
+    "volume": "255"
   },
   {
+    "DOI": "10.1080/2162402X.2026.2656514",
     "author": [
       {
-        "dropping-particle": "clubb",
-        "family": "Akseli Hemminki",
-        "given": "James",
-        "suffix": "Mirte vanderheijden"
+        "dropping-particle": "van der",
+        "family": "Heijden",
+        "given": "Mirte"
+      },
+      {
+        "family": "Clubb",
+        "given": "James Hugo Armstrong"
+      },
+      {
+        "family": "Erawijantari",
+        "given": "Pande Putu"
+      },
+      {
+        "family": "Ronkainen",
+        "given": "Aki"
+      },
+      {
+        "family": "Arias",
+        "given": "Victor"
+      },
+      {
+        "family": "Jirovec",
+        "given": "Elise"
+      },
+      {
+        "family": "Kudling",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Pakola",
+        "given": "Santeri Artturi"
+      },
+      {
+        "family": "Ojala",
+        "given": "Nea"
+      },
+      {
+        "family": "Haybout",
+        "given": "Lyna"
+      },
+      {
+        "family": "Basnet",
+        "given": "Saru"
+      },
+      {
+        "family": "Grönberg-Vähä-Koskela",
+        "given": "Susanna"
+      },
+      {
+        "family": "Raatikainen",
+        "given": "Sini Karoliina"
+      },
+      {
+        "family": "Hemminki",
+        "given": "Otto"
+      },
+      {
+        "family": "Kanerva",
+        "given": "Anna"
+      },
+      {
+        "family": "Quixabeira",
+        "given": "Dafne Carolina Alves"
+      },
+      {
+        "family": "Cervera-Carrascon",
+        "given": "Victor"
+      },
+      {
+        "dropping-particle": "dos",
+        "family": "Santos",
+        "given": "João Manuel"
+      },
+      {
+        "family": "Lahti",
+        "given": "Leo"
+      },
+      {
+        "family": "Hemminki",
+        "given": "Akseli"
       }
     ],
     "container-title": "OncoImmunology",
-    "id": "Hemminki2026",
+    "id": "Heijden2026",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
-          2026
+          2026,
+          4
         ]
       ]
     },
     "keyword": "bioscience",
-    "note": "In press.",
-    "title": "Alistipes and eggerthella shape the response to oncolytic adenovirus therapy in mice and humans through short chain fatty acid metabolism",
-    "type": "article-journal"
+    "page": "2656514",
+    "title": "Alistipes and eggerthella shape the response to oncolytic adenovirus therapy in mice and humans through short-chain fatty acid metabolism",
+    "type": "article-journal",
+    "volume": "15"
   },
   {
     "DOI": "10.1111/mmi.70064",
