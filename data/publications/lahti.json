@@ -1,5 +1,57 @@
 [
   {
+    "author": [
+      {
+        "family": "Hakkarainen",
+        "given": "Pekka"
+      },
+      {
+        "family": "Kantanen",
+        "given": "Pyry"
+      },
+      {
+        "family": "Kataja",
+        "given": "Kati"
+      },
+      {
+        "family": "Kivivuori",
+        "given": "Janne"
+      },
+      {
+        "family": "Lahti",
+        "given": "Leo"
+      },
+      {
+        "family": "Pitkänen",
+        "given": "Tuuli"
+      },
+      {
+        "family": "Rönkä",
+        "given": "Sanna"
+      },
+      {
+        "family": "Seppänen",
+        "given": "Anna"
+      }
+    ],
+    "container-title": "Yhteiskuntapolitiikka",
+    "id": "Hakkarainen2026",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "keyword": "datascience",
+    "page": "149-157",
+    "title": "Näkökulmia nuorten itsemurha-, huume- ja väkivaltakuolemiin: Sosiaalinen kuolemansyyntutkimus ja epätoivokuolemat",
+    "title-short": "Näkökulmia nuorten itsemurha-, huume- ja väkivaltakuolemiin",
+    "type": "article-journal",
+    "volume": "91"
+  },
+  {
     "DOI": "10.1016/j.puhe.2026.106285",
     "ISSN": "0033-3506",
     "author": [
